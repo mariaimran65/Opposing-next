@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86.004" height="49.996" viewBox="0 0 86.004 49.996">
+  <g id="icon-003" transform="translate(-0.494 -4.5)">
+    <path id="primary" d="M11.6,43H7.5A4.5,4.5,0,0,1,3,38.5V28.238a4.5,4.5,0,0,1,3.06-4.5L16.5,20.5,33.287,7.9a4.5,4.5,0,0,1,2.7-.9H63.569a4.5,4.5,0,0,1,3.78,2.025L75,20.5l6.524,3.24A4.5,4.5,0,0,1,84,27.788V38.5A4.5,4.5,0,0,1,79.5,43h-4" transform="translate(0 0)" fill="none" stroke="#42669d" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <line id="primary-2" data-name="primary" x1="26.098" transform="translate(30.452 42.997)" fill="none" stroke="#42669d" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="secondary" d="M50,22a9,9,0,1,0,9-9A9,9,0,0,0,50,22ZM5,22a9,9,0,1,0,9-9A9,9,0,0,0,5,22Z" transform="translate(7.004 20.998)" fill="none" stroke="#e1e1e1" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_6" data-name="Path 6" d="M39.036,14.2,27.271,23.026H44.306V14.2Z" fill="#42669d"/>
+    <path id="Path_7" data-name="Path 7" d="M39.113,14.2l5.192,8.824H25.045V14.2Z" transform="translate(24)" fill="#42669d"/>
+  </g>
+</svg>

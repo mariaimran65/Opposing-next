@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'FuturaBold';
+  src: url('/path-to-your-font/FuturaBold.woff2') format('woff2'),
+    url('/path-to-your-font/FuturaBold.woff') format('woff'),
+    url('/path-to-your-font/FuturaBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

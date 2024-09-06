@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /
+
+# Host
+Host: https://2ndpassport-landing.vercel.app
+
+# Sitemaps
+Sitemap: https://2ndpassport-landing.vercel.app/sitemap.xml
